@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>KeepYoung_Blog</title>
-  
-  <subtitle>Keep_Mind</subtitle>
+  <icon>https://www.gravatar.com/avatar/399817550617f16f01bec2c6472de405</icon>
+  <subtitle>Keep_Mind_Me</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -11,7 +11,7 @@
   
   <author>
     <name>KeepYoung</name>
-    
+    <email>1203144058@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
