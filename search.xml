@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Android测试</title>
+    <url>/2021/11/10/Android%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
+<h4 id="1-构建相关"><a href="#1-构建相关" class="headerlink" title="1.构建相关"></a>1.构建相关</h4><h4 id="2-语言相关"><a href="#2-语言相关" class="headerlink" title="2.语言相关"></a>2.语言相关</h4><h4 id="3-参数相关"><a href="#3-参数相关" class="headerlink" title="3.参数相关"></a>3.参数相关</h4><p><em>图片如下：</em><br><img src="https://sm.ms/image/V6i1vAY48K5ujBf" alt="线程池" title="流程图"></p>
+<hr>
+]]></content>
+      <categories>
+        <category>Android</category>
+      </categories>
+      <tags>
+        <tag>work</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/11/09/hello-world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
