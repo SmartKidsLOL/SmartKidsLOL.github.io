@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>KeepYoung_Blog</title>
   <icon>https://www.gravatar.com/avatar/399817550617f16f01bec2c6472de405</icon>
-  <subtitle>Keep_Mind_Me</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>Keep_Mind</subtitle>
+  <link href="https://smartkidslol.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://smartkidslol.github.io/"/>
   <updated>2021-11-10T12:56:52.963Z</updated>
-  <id>http://example.com/</id>
+  <id>https://smartkidslol.github.io/</id>
   
   <author>
     <name>KeepYoung</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Android测试</title>
-    <link href="http://example.com/2021/11/10/Android%E6%B5%8B%E8%AF%95/"/>
-    <id>http://example.com/2021/11/10/Android%E6%B5%8B%E8%AF%95/</id>
+    <link href="https://smartkidslol.github.io/2021/11/10/Android%E6%B5%8B%E8%AF%95/"/>
+    <id>https://smartkidslol.github.io/2021/11/10/Android%E6%B5%8B%E8%AF%95/</id>
     <published>2021-11-10T12:17:37.000Z</published>
     <updated>2021-11-10T12:56:52.963Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="Android" scheme="http://example.com/categories/Android/"/>
+    <category term="Android" scheme="https://smartkidslol.github.io/categories/Android/"/>
     
     
-    <category term="work" scheme="http://example.com/tags/work/"/>
+    <category term="work" scheme="https://smartkidslol.github.io/tags/work/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/11/09/hello-world/"/>
-    <id>http://example.com/2021/11/09/hello-world/</id>
+    <link href="https://smartkidslol.github.io/2021/11/09/hello-world/"/>
+    <id>https://smartkidslol.github.io/2021/11/09/hello-world/</id>
     <published>2021-11-09T06:11:18.995Z</published>
     <updated>2021-11-09T06:11:18.995Z</updated>
     
